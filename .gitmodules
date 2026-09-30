@@ -1,3 +1,3 @@
 [submodule "nix"]
 	path = nix
-	url = git@github.com:alpinegeorge/nixos-config.git
+	url = https://github.com/georgehulme/nixos-steam-config.git
